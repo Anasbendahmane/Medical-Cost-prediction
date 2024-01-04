@@ -1,10 +1,11 @@
 # **Predicting Health Insurance Costs**
 
-## **Introduction:**
+Predict the individual medical costs billed by health insurance using a regression neural network model with Tensorflow.
 
-In this repository, we aim to leverage the datasets from "Machine Learning with R" by Brett Lantz to explore and build predictive model for individual medical costs billed by health insurance.
+The dataset is a derived from from "Machine Learning with R" by Brett Lantz.
 
-Dataset Description:
+
+### **Dataset Description:**
 
 **Age:** Age of the primary beneficiary.
 
@@ -19,3 +20,9 @@ Dataset Description:
 **region:** The beneficiary's residential area in the US (northeast, southeast, southwest, northwest).
 
 **charges:** Individual medical costs billed by health insurance.
+
+
+# **Contributors:**
+
+  - Anas BEN DAHMANE
+
